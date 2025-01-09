@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lawal Kolawole @Kola9INE.
 - 👀 I’m interested in the Data analytics and Science fields.
 - I am adept at using tools like the Python data libraries (Pandas, Seaborn, Numpy, etc), Power Query, Ms. Excel, Power BI, Power Pivot, Pivot Charts, Selenium (for data extraction and web automation), git bash (for automation), Streamlit and MySQL.
+- I possess entry/beginner level knowledge and skill in mobile app development with Flutter and Firebase.
 - 💞️ I’m looking to collaborate on Data collection/Mining projects using the Python Selenium API and BeautifulSoup; Data cleaning projects using tools such as the Power Query, Excel, Python libraries (Pandas, Numpy etc); Data analysis projects using tools such as the JupyterLab, VSCode, Snowflake, Pyspark, Excel Pivot tables, etc; Data quality projects and data visualization projects via tools like the Seaborn, Excel PivotCharts, PowerBI.
 - 📫 How to reach me: lawalkolawole902@gmail.com (gmail)
 - 📫 How to reach me: 07075712794 (phone number)
